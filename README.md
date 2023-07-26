@@ -14,6 +14,10 @@
 
 <img alt="GIF" src="https://github.com/kevinarocha/kevinarocha/blob/main/hadder.gif?raw=true" width="500"/>
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinarocha)](https://github.com/kevinarocha/github-readme-stats)
+
 ### Skills
 
 <p align="left">
