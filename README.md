@@ -10,6 +10,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinarocha&label=Profile%20views&color=0e75b6&style=flat" alt="kevinarocha" /> </p>
 
+
+
+<img alt="GIF" src="https://github.com/kevinarocha/kevinarocha/blob/main/hadder.gif?raw=true" width="500"/>
+
 ### Skills
 
 <p align="left">
@@ -21,6 +25,3 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
-
-<img alt="GIF" src="https://github.com/rahulvarma5297/rahulvarma5297/blob/main/hadder.gif?raw=true" width="500"/>
-
