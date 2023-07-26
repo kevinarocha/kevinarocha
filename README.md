@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Rocha</h1>
 <h3 align="center">A software developer that works with C# and ASP.NET MVC</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinarocha)](https://github.com/kevinarocha/github-readme-stats)
 
